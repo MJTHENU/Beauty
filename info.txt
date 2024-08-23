@@ -1,0 +1,3 @@
+Database:beauty
+username: beauty
+password:SBbE4u=2j3Z!
