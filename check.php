@@ -7,7 +7,7 @@ $date = $_POST['date'];
 $time = $_POST['time'];
 
 // Create connection
-$conn = new mysqli("localhost", "root", "", "bp");
+$conn = new mysqli("localhost", "beauty", "SBbE4u=2j3Z!", "beauty");
 
 // Check connection
 if ($conn->connect_error) {
